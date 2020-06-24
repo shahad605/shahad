@@ -1,0 +1,84 @@
+********************************************************************************
+DUPLICATOR-LITE PACKAGE-LOG: June 10, 2020 12:52 am
+NOTICE: Do NOT post to public sites or forums 
+********************************************************************************
+VERSION:	1.3.34
+WORDPRESS:	5.3.3
+PHP INFO:	7.4.6 | SAPI: apache2handler
+SERVER:		Apache/2.4.43 (Win64) OpenSSL/1.1.1g PHP/7.4.6 
+PHP TIME LIMIT: (0) no time limit imposed 
+PHP MAX MEMORY: 4294967296 (512M default) 
+MEMORY STACK: 6MB
+
+********************************************************************************
+DATABASE:
+********************************************************************************
+BUILD MODE:   MYSQLDUMP
+MYSQLTIMEOUT: 5000
+MYSQLDUMP:    Is Supported
+SQL CREATED: 20200603_shahad_e138dfc5897f57837641_20200610005200_database.sql
+SQL FILE SIZE: 3.49MB (3662777)
+SQL FILE TIME: 2020-06-10 00:52:12
+SQL RUNTIME: 1.86 sec.
+
+********************************************************************************
+ARCHIVE (ZIP):
+********************************************************************************
+ARCHIVE DIR:  C:/xampp/htdocs/shahad
+ARCHIVE FILE: 20200603_shahad_e138dfc5897f57837641_20200610005200_archive.zip
+FILTERS: *OFF*
+DIRS:
+	not set
+FILES:
+	not set
+EXTS:  not set
+----------------------------------------
+COMPRESSING
+SIZE:	108.94MB
+STATS:	Dirs 733 | Files 4,626
+SQL ADDED: 20200603_shahad_e138dfc5897f57837641_20200610005200_database.sql
+ZipArchive Object
+(
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 5359
+    [filename] => C:\xampp\htdocs\shahad\wp-snapshots\tmp\20200603_shahad_e138dfc5897f57837641_20200610005200_archive.zip
+    [comment] => 
+)
+
+FILE ADDED TO ZIP: 5358
+COMPRESSION RESULT: '1'
+COMPRESSED SIZE: 44.17MB
+ARCHIVE RUNTIME: 16.63 sec.
+MEMORY STACK: 8MB
+building installer
+add_extra_files1
+add_extra_files2
+add_extra_files3
+add_extra_files4
+Doing archive file check
+add_extra_files5
+add_extra_files6
+add_extra_files8
+Successfully opened zip C:/xampp/htdocs/shahad/wp-snapshots/tmp/20200603_shahad_e138dfc5897f57837641_20200610005200_archive.zip
+Adding enhanced installer files to archive using ZipArchive
+Installer files added to archive
+Added to archive
+After ziparchive close when adding installer
+
+********************************************************************************
+INTEGRITY CHECKS:
+********************************************************************************
+SQL FILE: 3.49MB
+INSTALLER FILE: 61.31KB
+ARCHIVE FILE: 45.66MB 
+EXPECTED FILE/DIRECTORY COUNT: 5,359
+ACTUAL FILE/DIRECTORY COUNT: 5,358
+ARCHIVE CONSISTENCY TEST: Pass
+
+********************************************************************************
+RECORD ID:[3]
+TOTAL PROCESS RUNTIME: 20.30 sec.
+PEAK PHP MEMORY USED: 10MB
+DONE PROCESSING => 20200603_shahad June 10, 2020 12:52 am
+

@@ -1,0 +1,5 @@
+# Ignore wp-config.phpand.htaccess
+wp-config.php
+.htaccess
+# Ignore the wp-content directory 
+/wp-content 
